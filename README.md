@@ -1,2 +1,2 @@
-# Ocupa-o-dos-CDs
-Ocupação dos CDs
+# Taxa-Ocupação-dos-CDs
+Taxa de Ocupação dos CDs
